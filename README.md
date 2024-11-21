@@ -25,14 +25,14 @@ Desde siempre, mi objetivo ha sido construir soluciones que mejoren la vida de l
 - **Desarrollo Móvil:** Flutter, Dart, Android Studio  
 - **Desarrollo Web:** React, HTML5, CSS3, JavaScript  
 - **Inteligencia Artificial:** Machine Learning, Python  
-- **Herramientas y Tecnologías:** GitHub, Firebase, Visual Studio Code  
+- **Herramientas y Tecnologías:** GitHub, Firebase, Visual Studio Code, Notion
 - **Valores:** Innovación, aprendizaje constante, compartir conocimiento  
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🔹 Calculadora de Compras "AddUpFast!"
+### 🔹 [Calculadora de Compras "AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)"
 - **Tecnologías:** Flutter, Dart, Firebase  
 - **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz.  
 
