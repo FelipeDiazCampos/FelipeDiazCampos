@@ -58,4 +58,5 @@ Explora mis insignias y certificaciones, que reflejan mi trayectoria en distinta
 
 Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar, ¡no dudes en contactarme!
 
-> "La innovación es la fuerza que impulsa al mundo. ¡Vamos juntos por más!" 🚀
+> "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
+– Marco Aurelio" 
