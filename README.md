@@ -14,7 +14,7 @@ Desde siempre, mi objetivo ha sido construir soluciones que mejoren la vida de l
 ## Encuéntrame en:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/engineer-felipe-d%C3%ADaz-campos/)
-[![GitHub](https://img.shields.io/badge/GitHub-FelipeDiazCampos-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)](https://github.com/FelipeDiazCampos)
+[![GitHub](https://img.shields.io/badge/GitHub-FelipeDiazCampos-6a0dad?style=for-the-badge&logo=github&logoColor=white&labelColor=1e002d)](https://github.com/FelipeDiazCampos)
 [![Credly](https://img.shields.io/badge/Credly-Badges_Profile-FF6F00?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=101010)](https://www.credly.com/users/felipe-diaz.b6fb06db)
 [![Email](https://img.shields.io/badge/Email-felipe95dc@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:felipe95dc@gmail.com)
 
@@ -32,15 +32,15 @@ Desde siempre, mi objetivo ha sido construir soluciones que mejoren la vida de l
 
 ## 🚀 Proyectos destacados
 
-### 🔹 [Calculadora de Compras "AddUpFast! - colaborativo](https://github.com/eleBlue7/proyecto-titulo)
+### 🔹 [Calculadora de Compras "AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)"
 - **Tecnologías:** Flutter, Dart, Firebase  
 - **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz.  
 
-### 🔹 [Proyecto de Inteligencia Artificial - proximamente](https://github.com/FelipeDiazCampos/AI-Project)
+### 🔹 [Proyecto de Inteligencia Artificial](https://github.com/FelipeDiazCampos/AI-Project)
 - **Tecnologías:** Python, TensorFlow, Google Colab  
 - **Descripción:** Modelo de predicción de datos usando regresión y análisis estadístico.  
 
-### 🔹 [Aplicación Web Interactiva - proximamente](https://github.com/FelipeDiazCampos/WebApp-Interactive)
+### 🔹 [Aplicación Web Interactiva](https://github.com/FelipeDiazCampos/WebApp-Interactive)
 - **Tecnologías:** React, Node.js, MongoDB  
 - **Descripción:** Plataforma web para gestionar tareas con diseño intuitivo y responsivo.
 
@@ -56,7 +56,6 @@ Explora mis insignias y certificaciones, que reflejan mi trayectoria en distinta
 
 ## 🧑‍💻 ¿Te gustaría colaborar?
 
-Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar, ¡no dudes en escribirme!
+Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar, ¡no dudes en contactarme!
 
-> "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
-– Marco Aurelio" 
+> "La innovación es la fuerza que impulsa al mundo. ¡Vamos juntos por más!" 🚀
