@@ -32,15 +32,15 @@ Desde siempre, mi objetivo ha sido construir soluciones que mejoren la vida de l
 
 ## 🚀 Proyectos destacados
 
-### 🔹 [Calculadora de Compras "AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)"
+### 🔹 [Calculadora de Compras "AddUpFast! - colaborativo](https://github.com/eleBlue7/proyecto-titulo)
 - **Tecnologías:** Flutter, Dart, Firebase  
 - **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz.  
 
-### 🔹 [Proyecto de Inteligencia Artificial](https://github.com/FelipeDiazCampos/AI-Project)
+### 🔹 [Proyecto de Inteligencia Artificial - proximamente](https://github.com/FelipeDiazCampos/AI-Project)
 - **Tecnologías:** Python, TensorFlow, Google Colab  
 - **Descripción:** Modelo de predicción de datos usando regresión y análisis estadístico.  
 
-### 🔹 [Aplicación Web Interactiva](https://github.com/FelipeDiazCampos/WebApp-Interactive)
+### 🔹 [Aplicación Web Interactiva - proximamente](https://github.com/FelipeDiazCampos/WebApp-Interactive)
 - **Tecnologías:** React, Node.js, MongoDB  
 - **Descripción:** Plataforma web para gestionar tareas con diseño intuitivo y responsivo.
 
@@ -58,4 +58,5 @@ Explora mis insignias y certificaciones, que reflejan mi trayectoria en distinta
 
 Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar, ¡no dudes en escribirme!
 
-> "La innovación es la fuerza que impulsa al mundo. ¡Vamos juntos por más!" 🚀
+> "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
+– Marco Aurelio" 
