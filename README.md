@@ -26,7 +26,7 @@ Desde siempre, mi objetivo ha sido construir soluciones que mejoren la vida de l
 - **Desarrollo Móvil:** Flutter, Dart, Android Studio  
 - **Desarrollo Web:** React, HTML5, CSS3, JavaScript  
 - **Inteligencia Artificial:** Machine Learning, Python  
-- **Herramientas y Tecnologías:** GitHub, Firebase, Visual Studio Code, Notion, GitHub
+- **Herramientas y Tecnologías:** GitHub, Firebase, Visual Studio Code, Notion, 
 - **Valores:** Innovación, aprendizaje constante, compartir conocimiento  
 
 ---
