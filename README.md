@@ -5,7 +5,8 @@
 
 ---
 
-Soy un ingeniero en informática titulado en la **Universidad Tecnológica de Chile INACAP**, orgullosamente chileno y apasionado por la tecnología, la innovación y el aprendizaje continuo. Como autodidacta, disfruto explorando nuevas herramientas y lenguajes, con un enfoque en **programación móvil**, **desarrollo web** e **inteligencia artificial**. 🚀
+Soy un ingeniero en informática titulado en la **Universidad Tecnológica de Chile INACAP**, orgullosamente chileno y apasionado por la tecnología, la innovación y el aprendizaje continuo. Como autodidacta, disfruto explorando nuevas herramientas y lenguajes, con un enfoque en **programación móvil**, **desarrollo web**, **inteligencia artificial**, y **ciberseguridad**, área en la que también me formé durante mi carrera universitaria. Además, tengo experiencia en el uso de **AWS (Amazon Web Services)** para crear soluciones escalables y modernas. 🚀
+
 
 Desde siempre, mi objetivo ha sido construir soluciones que mejoren la vida de las personas, mientras aprendo y comparto conocimiento en el proceso.
 
@@ -25,14 +26,14 @@ Desde siempre, mi objetivo ha sido construir soluciones que mejoren la vida de l
 - **Desarrollo Móvil:** Flutter, Dart, Android Studio  
 - **Desarrollo Web:** React, HTML5, CSS3, JavaScript  
 - **Inteligencia Artificial:** Machine Learning, Python  
-- **Herramientas y Tecnologías:** GitHub, Firebase, Visual Studio Code, Notion
+- **Herramientas y Tecnologías:** GitHub, Firebase, Visual Studio Code, Notion, GitHub
 - **Valores:** Innovación, aprendizaje constante, compartir conocimiento  
 
 ---
 
 ## 🚀 Proyectos destacados
 
-### 🔹 [Calculadora de Compras "AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)
+### 🔹 [Calculadora de Compras AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)
 - **Tecnologías:** Flutter, Dart, Firebase  
 - **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz.  
 
