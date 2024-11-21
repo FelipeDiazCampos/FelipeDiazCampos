@@ -32,7 +32,7 @@ Desde siempre, mi objetivo ha sido construir soluciones que mejoren la vida de l
 
 ## 🚀 Proyectos destacados
 
-### 🔹 [Calculadora de Compras "AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)"
+### 🔹 [Calculadora de Compras "AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)
 - **Tecnologías:** Flutter, Dart, Firebase  
 - **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz.  
 
