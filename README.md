@@ -1,7 +1,7 @@
 # ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Hola, soy Felipe Díaz Campos 👋  
 ### Ingeniero en Informática | Apasionado por la Innovación, la IA y la Programación
 
-![GitHub Banner](https://raw.githubusercontent.com/FelipeDiazCampos/FelipeDiazCampos/main/banner.png)
+![GitHub Banner](https://fs.buttercms.com/resize=width:940/I351RMgSjC6YAj1Ra8pE)
 
 ---
 
