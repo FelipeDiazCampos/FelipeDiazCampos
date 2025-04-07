@@ -1,4 +1,4 @@
-# ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉｄｏｓ ａ ｍｉ ＧｉｔＨｕｂ 👋  
+# ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉｄ @ ａ ｍｉ ＧｉｔＨｕｂ 👋  
 
 <h3>
   <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
