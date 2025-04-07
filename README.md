@@ -5,18 +5,15 @@
 
 ---
 
-Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**,  apasionado por la tecnología, la innovación y el aprendizaje continuo. Como autodidacta, disfruto explorando nuevas herramientas y lenguajes, con un enfoque en **programación móvil**, **desarrollo web**, **inteligencia artificial**, y **ciberseguridad**, áreas formadas durante mi carrera. Experiencia en el uso de **AWS (Amazon Web Services)** para crear soluciones escalables y modernas, y en sistemas operativos como Fedora o Kali Linux. 🚀
+Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**, tecnologo, innovador y en constante aprendizaje. 
+Autodidacta, explorador de nuevas herramientas, con un enfoque en **programación móvil**, **desarrollo web**, **inteligencia artificial**, y **ciberseguridad**, áreas formadas durante mi carrera. 
+Experiencia en el uso de **AWS (Amazon Web Services)**, y en sistemas operativos como **Fedora o Kali Linux**. 🚀
 
-Soy un ingeniero en informática titulado en la **Universidad Tecnológica de Chile INACAP**, orgullosamente chileno y apasionado por la tecnología, la innovación y el aprendizaje continuo. 
-Autodidacta, que disfruta explorando nuevas herramientas y lenguajes, con un enfoque en **programación móvil**, **desarrollo web**, **inteligencia artificial**, y **ciberseguridad**, área en la que también me formé durante mi carrera universitaria. 
-Experiencia en el uso de **AWS (Amazon Web Services)** y sistemas operativos como **Fedora y Kali Linux**.🚀
-
-
-Desde siempre, mi objetivo ha sido construir soluciones que mejoren la vida de las personas, mientras aprendo y comparto conocimiento en el proceso.
+Mi objetiv🎯: construir o constribuir soluciones que mejoren la vida de las personas, aprendiendo y compartiendo el saber durante el proceso.
 
 ---
 
-## Encuéntrame en:
+## Mis Redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/engineer-felipe-d%C3%ADaz-campos/)
 [![GitHub](https://img.shields.io/badge/GitHub-FelipeDiazCampos-6a0dad?style=for-the-badge&logo=github&logoColor=white&labelColor=1e002d)](https://github.com/FelipeDiazCampos)
