@@ -6,7 +6,7 @@
 ---
 
 Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**, tecnologo, innovador y en constante aprendizaje. 
-Autodidacta, explorador de nuevas herramientas, con un enfoque en **programación móvil**, **desarrollo web**, **inteligencia artificial**, y **ciberseguridad**, áreas formadas durante mi carrera. 
+Autodidacta, explorador de nuevas herramientas, con un enfoque en **desarrollo móvil**, **desarrollo web**, **IA**, y **ciberseguridad**, áreas formadas durante mi carrera. 
 Experiencia en el uso de **AWS (Amazon Web Services)**, y en sistemas operativos como **Fedora o Kali Linux**. 🚀
 
 **Mi objetiv🎯**: construir o constribuir soluciones que mejoren la vida de las personas, aprendiendo y compartiendo el saber durante el proceso.
