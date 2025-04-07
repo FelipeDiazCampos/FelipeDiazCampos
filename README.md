@@ -23,7 +23,7 @@ Experiencia en el uso de **AWS (Amazon Web Services)**, y en sistemas operativos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/engineer-felipe-d%C3%ADaz-campos/)
 [![GitHub](https://img.shields.io/badge/GitHub-FelipeDiazCampos-6a0dad?style=for-the-badge&logo=github&logoColor=white&labelColor=1e002d)](https://github.com/FelipeDiazCampos)
-[![Credly](https://img.shields.io/badge/Credly-Certificaciones_y_insignias-FF6F00?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=101010)](https://www.credly.com/users/felipe-diaz.b6fb06db)
+[![Credly](https://img.shields.io/badge/Credly-Certificaciones_e_insignias-FF6F00?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=101010)](https://www.credly.com/users/felipe-diaz.b6fb06db)
 [![Email](https://img.shields.io/badge/Email-engineer.felipediazcampos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:engineer.felipediazcampos@gmail.com)
 
 ---
@@ -54,16 +54,7 @@ Experiencia en el uso de **AWS (Amazon Web Services)**, y en sistemas operativos
 - **Descripción:** Plataforma web para gestionar tareas con diseño intuitivo y responsivo.
 
 ---
-
-## 📚 Mis certificaciones en Credly
-
-[![Credly Profile](https://img.shields.io/badge/Credly-View_Badges-FF6F00?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=101010)](https://www.credly.com/users/felipe-diaz.b6fb06db)
-
-Explora mis insignias y certificaciones, que reflejan mi trayectoria en distintas tecnologías y disciplinas.
-
----
-
-## 🧑‍💻 ¿Te gustaría colaborar?
+## 🧑‍💻 Colaboraciones
 
 Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar, ¡no dudes en contactarme!
 
