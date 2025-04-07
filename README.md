@@ -1,6 +1,7 @@
 # ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉｄｏｓ ａ ｍｉ ＧｉｔＨｕｂ 👋  
 
-### Ingeniero en Informática | Apasionado por la Innovación, la IA y la Programación
+### $${\color{#45B1E8}\text{Ingeniero en Informática}}$$ ✅ | Apasionado por la Innovación, la IA y la Programación
+
 
 ![GitHub Banner](https://media.licdn.com/dms/image/v2/D4D16AQHFPVVJ8-lHNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732218163279?e=1749686400&v=beta&t=wsyVUqi3WdMnmi6ZZWbNIyhd5pyAaTXyvKspX_0sguQ)
 
