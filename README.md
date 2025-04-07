@@ -5,7 +5,7 @@
 
 ---
 
-Soy un ingeniero en informática titulado en la **Universidad Tecnológica de Chile INACAP**, orgullosamente chileno y apasionado por la tecnología, la innovación y el aprendizaje continuo. Como autodidacta, disfruto explorando nuevas herramientas y lenguajes, con un enfoque en **programación móvil**, **desarrollo web**, **inteligencia artificial**, y **ciberseguridad**, área en la que también me formé durante mi carrera universitaria. Además, tengo experiencia en el uso de **AWS (Amazon Web Services)** para crear soluciones escalables y modernas. 🚀
+Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**,  apasionado por la tecnología, la innovación y el aprendizaje continuo. Como autodidacta, disfruto explorando nuevas herramientas y lenguajes, con un enfoque en **programación móvil**, **desarrollo web**, **inteligencia artificial**, y **ciberseguridad**, áreas formadas durante mi carrera. Experiencia en el uso de **AWS (Amazon Web Services)** para crear soluciones escalables y modernas, y en sistemas operativos como Fedora o Kali Linux. 🚀
 
 
 Desde siempre, mi objetivo ha sido construir soluciones que mejoren la vida de las personas, mientras aprendo y comparto conocimiento en el proceso.
