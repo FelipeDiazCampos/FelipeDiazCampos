@@ -7,13 +7,6 @@
 </h3>
 
 
-<h3>
-  <font color="#00b7eb">Ingeniero</font> en Informática
-  <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
-  | Apasionado por la Innovación, la IA y la Programación
-</h3>
-
-
 ![GitHub Banner](https://media.licdn.com/dms/image/v2/D4D16AQHFPVVJ8-lHNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732218163279?e=1749686400&v=beta&t=wsyVUqi3WdMnmi6ZZWbNIyhd5pyAaTXyvKspX_0sguQ)
 
 ---
