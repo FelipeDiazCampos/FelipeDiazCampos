@@ -1,6 +1,10 @@
 # ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉｄｏｓ ａ ｍｉ ＧｉｔＨｕｂ 👋  
 
-### <span style="color:#01b0bb; text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;">Ingeniero en Informática</span> ✅ | Apasionado por la Innovación, la IA y la Programación
+<h3>
+  <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
+  <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
+  | Apasionado por la Innovación, la IA y la Programación
+</h3>
 
 
 ![GitHub Banner](https://media.licdn.com/dms/image/v2/D4D16AQHFPVVJ8-lHNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732218163279?e=1749686400&v=beta&t=wsyVUqi3WdMnmi6ZZWbNIyhd5pyAaTXyvKspX_0sguQ)
