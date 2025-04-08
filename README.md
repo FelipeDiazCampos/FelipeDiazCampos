@@ -1,7 +1,9 @@
 # ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉd @ ａ ｍｉ ＧｉｔＨｕｂ <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-6491025.png" alt="GitHub Icono" style="width:60px; vertical-align:middle;">
 
-# Ｂｉｅｎｖｅｎｉd @ ａ ｍｉ ＧｉｔＨｕｂ <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-6491025.png" alt="GitHub Icono" style="width:60px; vertical-align:middle;">
 
+<p align="center">
+  # Ｂｉｅｎｖｅｎｉd @ ａ ｍｉ ＧｉｔＨｕｂ <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-6491025.png" alt="GitHub Icono" style="width:60px; vertical-align:middle;">
+</p>
 
 <h3>
   <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
@@ -68,11 +70,10 @@ Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si ti
 ¡no dudes en contactarme!
 
 > "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
-– Marco Aurelio" 
+– Marco Aurelio"
+
+
 <p align="center">
-
-
-  
   <img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b95232no32hxa1xznp6tkfdvdgzz8wiawwrmtovtxhsz&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Mi GIF animado">
 </p>
 
