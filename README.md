@@ -67,6 +67,6 @@ Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si ti
 > "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
 – Marco Aurelio" 
 
-<img src="[https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnd5cDB3Y3h0ZXZoeHg4MDM1NzJxaGpmZnVoaXZkaXd3Y2NjbGFpNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif)" alt="Mi GIF animado">
+<img src="https://i.imgur.com/rNZGq4H.gif" alt="Mi GIF animado">
 
 
