@@ -3,22 +3,19 @@
     <img src="https://img.icons8.com/ios/50/000000/rocket.png" alt="AlphaDiaz"> Ｂｉｅｎｖｅｎｉd @ ａ ｍｉ ＧｉｔＨｕｂ 
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-6491025.png" alt="GitHub Icono" style="width:60px; vertical-align:middle;">
   </h1>
+
+  <h3>
+    <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
+    <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
+    | Apasionado por la Innovación, la IA y la Programación
+  </h3>
+
 </div>
-
-
-
-
-<h3>
-  <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
-  <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
-  | Apasionado por la Innovación, la IA y la Programación
-</h3>
-
 
 ![GitHub Banner](https://media.licdn.com/dms/image/v2/D4D16AQHFPVVJ8-lHNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732218163279?e=1749686400&v=beta&t=wsyVUqi3WdMnmi6ZZWbNIyhd5pyAaTXyvKspX_0sguQ)
-<div align="center">
+
 ---
-</div>
+
 
 ⁜ Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**, tecnólogo, innovador y en constante aprendizaje.  
 ⁜ Autodidacta, explorador de nuevas herramientas con enfoque en **desarrollo móvil/web**, **IA** y **ciberseguridad**, formadas durante mi carrera.  
