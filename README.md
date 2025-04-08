@@ -1,5 +1,5 @@
 # ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉｄ @ ａ ｍｉ ＧｉｔＨｕｂ 👋 
-# ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉd @ ａ ｍｉ ＧｉｔＨｕｂ 👋 <img src="https://dashboard.snapcraft.io/site_media/appmedia/2017/07/git-github-hub-icon-25.png"GitHub Icono" style="width:20px; vertical-align:middle;">
+
 
 <h3>
   <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
