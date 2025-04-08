@@ -1,11 +1,10 @@
-# ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉｄ @ ａ ｍｉ ＧｉｔＨｕｂ 👋  <img src="https://github-desktop.macupdate.com/" alt="Verificado" style="width:20px; vertical-align:middle;">
+# ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉｄ @ ａ ｍｉ ＧｉｔＨｕｂ 👋  <img src="https://static.macupdate.com/products/39062/l/github-desktop-logo.png?v=1666189561" style="width:20px; vertical-align:middle;">
 
 <h3>
   <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
   <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
   | Apasionado por la Innovación, la IA y la Programación
 </h3>
-
 
 
 ![GitHub Banner](https://media.licdn.com/dms/image/v2/D4D16AQHFPVVJ8-lHNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732218163279?e=1749686400&v=beta&t=wsyVUqi3WdMnmi6ZZWbNIyhd5pyAaTXyvKspX_0sguQ)
