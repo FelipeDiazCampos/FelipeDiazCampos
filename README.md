@@ -3,7 +3,7 @@
     <img src="https://img.icons8.com/ios/50/000000/rocket.png" alt="AlphaDiaz"> Ｂｉｅｎｖｅｎｉd @ ａ ｍｉ ＧｉｔＨｕｂ 
     <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-6491025.png" alt="GitHub Icono" style="width:60px; vertical-align:middle;">
   </h1>
-</div>
+
 
 
 
@@ -78,4 +78,4 @@ Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si ti
 <p align="center">
   <img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b95232no32hxa1xznp6tkfdvdgzz8wiawwrmtovtxhsz&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Mi GIF animado">
 </p>
-
+</div>
