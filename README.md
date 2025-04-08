@@ -46,20 +46,22 @@ Experiencia en el uso de **AWS (Amazon Web Services)**, y en sistemas operativos
 
 ### 🔹 [Calculadora de Compras AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)
 - **Tecnologías:** Flutter, Dart, Firebase  
-- **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz.  
+- **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz.
+- **Proposito:** Proyecto de titulacion universitario
 
-### 🔹 [Proyecto de Inteligencia Artificial](https://github.com/FelipeDiazCampos/AI-Project)
+### 🔹 [Proximamente - Proyecto de Inteligencia Artificial](https://github.com/FelipeDiazCampos/AI-Project)
 - **Tecnologías:** Python, TensorFlow, Google Colab  
 - **Descripción:** Modelo de predicción de datos usando regresión y análisis estadístico.  
 
-### 🔹 [Aplicación Web Interactiva](https://github.com/FelipeDiazCampos/WebApp-Interactive)
+### 🔹 [Proximamente - Aplicación Web Interactiva](https://github.com/FelipeDiazCampos/WebApp-Interactive)
 - **Tecnologías:** React, Node.js, MongoDB  
 - **Descripción:** Plataforma web para gestionar tareas con diseño intuitivo y responsivo.
 
 ---
 ## 🧑‍💻 Colaboraciones
 
-Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar, ¡no dudes en contactarme!
+Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar, 
+¡no dudes en contactarme!
 
 > "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
 – Marco Aurelio" 
