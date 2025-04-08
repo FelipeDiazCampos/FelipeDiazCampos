@@ -1,6 +1,6 @@
-<p align="center">
+
 # ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉd @ ａ ｍｉ ＧｉｔＨｕｂ <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-6491025.png" alt="GitHub Icono" style="width:60px; vertical-align:middle;">
-</p>
+
 
 <h3>
   <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
