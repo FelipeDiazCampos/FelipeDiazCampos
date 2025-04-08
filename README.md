@@ -1,4 +1,4 @@
-# ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉｄ @ ａ ｍｉ ＧｉｔＨｕｂ 👋  <img src="https://static.macupdate.com/products/39062/l/github-desktop-logo.png?v=1666189561" style="width:20px; vertical-align:middle;">
+# ![AlphaDiaz](https://img.icons8.com/ios/50/000000/rocket.png) Ｂｉｅｎｖｅｎｉｄ @ ａ ｍｉ ＧｉｔＨｕｂ 👋  <img src="https://pngimg.com/d/github_PNG60.png"width:20px; vertical-align:middle;">
 
 <h3>
   <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
