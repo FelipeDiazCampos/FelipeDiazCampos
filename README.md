@@ -28,8 +28,6 @@
 
 [![Credly](https://img.shields.io/badge/Credly-Certificaciones_e_insignias-FF6F00?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=101010)](https://www.credly.com/users/felipe-diaz.b6fb06db)
 
-[![Email](https://img.shields.io/badge/Email-engineer.felipediazcampos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:engineer.felipediazcampos@gmail.com)
-
 [![Email](https://img.shields.io/badge/Email-engineer.felipediazcampos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=engineer.felipediazcampos@gmail.com)
 
 
