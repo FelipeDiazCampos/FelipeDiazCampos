@@ -69,4 +69,7 @@ Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si ti
 
 <img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b95232no32hxa1xznp6tkfdvdgzz8wiawwrmtovtxhsz&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Mi GIF animado">
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b95232no32hxa1xznp6tkfdvdgzz8wiawwrmtovtxhsz&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Mi GIF animado">
+</p>
 
