@@ -55,6 +55,7 @@
 - **Tecnologías:** Flutter, Dart, Firebase  
 - **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz.
 - **Proposito:** Proyecto de titulacion universitario
+- **Colaboradores:** 
 
 ### 🔹 [Proximamente - Proyecto de Inteligencia Artificial](https://github.com/FelipeDiazCampos/AI-Project)
 - **Tecnologías:** Python, TensorFlow, Google Colab  
