@@ -30,6 +30,9 @@
 
 [![Email](https://img.shields.io/badge/Email-engineer.felipediazcampos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:engineer.felipediazcampos@gmail.com)
 
+[![Email](https://img.shields.io/badge/Email-engineer.felipediazcampos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=engineer.felipediazcampos@gmail.com)
+
+
 ---
 
 ## 🌟 Habilidades y Pasiones
