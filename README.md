@@ -53,7 +53,7 @@
 
 ### 🔹 [Calculadora de Compras AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)
 - **Tecnologías:** Flutter, Dart, Firebase  
-- **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz.
+- **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz
 - **Proposito:** Proyecto de titulacion universitario
 - **Colaboradores:** [eleBlue7](https://github.com/eleBlue7), [DB3NJ4](https://github.com/DB3NJ4)
   
@@ -61,11 +61,11 @@
 
 ### 🔹 [Proximamente - Proyecto de Inteligencia Artificial](https://github.com/FelipeDiazCampos/AI-Project)
 - **Tecnologías:** Python, TensorFlow, Google Colab  
-- **Descripción:** Modelo de predicción de datos usando regresión y análisis estadístico.  
+- **Descripción:** Modelo de predicción de datos usando regresión y análisis estadístico  
 
 ### 🔹 [Proximamente - Aplicación Web Interactiva](https://github.com/FelipeDiazCampos/WebApp-Interactive)
 - **Tecnologías:** React, Node.js, MongoDB  
-- **Descripción:** Plataforma web para gestionar tareas con diseño intuitivo y responsivo.
+- **Descripción:** Plataforma web para gestionar tareas con diseño intuitivo y responsivo
 
 ---
 ## 🧑‍💻 Colaboraciones
