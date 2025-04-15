@@ -41,8 +41,8 @@
 ## 🌟 Habilidades y Pasiones
 
 - **Desarrollo Móvil:** Flutter, Dart, Android Studio  
-- **Desarrollo Web:** React, HTML5, CSS3, JavaScript  
-- **Inteligencia Artificial:** Machine Learning, Python  
+- **Desarrollo Web:** Vue.js, HTML5, CSS3, JavaScript, Bootstrap.
+- **Inteligencia Artificial:** Machine Learning, Python, Ultralytics YOLO 
 - **Herramientas y Tecnologías:** GitHub, Firebase, Visual Studio Code, Notion, etc.
 - **Sistemas operativos:** Windows, Fedora, Kali Linux.
 - **Valores:** Innovación, aprendizaje constante, compartir conocimiento, trabajo en equipo, liderazgo. 
