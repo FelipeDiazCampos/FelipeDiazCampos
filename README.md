@@ -21,7 +21,7 @@
 ⁜ Autodidacta, explorador de herramientas con enfoque en **desarrollo móvil/web**, **IA** y **ciberseguridad**, formadas en mi carrera  
 ⁜ Experiencia en el uso de **Amazon Web Services**, y en sistemas operativos como **Fedora** o **Kali Linux** 🎩
 
-**Mi objetiv🎯**: construir o contribuir a soluciones que mejoren la vida de las personas, aprendiendo y compartiendo el saber durante el proceso
+**Mi objetiv🎯**: construir y contribuir soluciones que mejoren la vida de todos, aprendiendo y compartiendo el saber durante el proceso
 
 ---
 
