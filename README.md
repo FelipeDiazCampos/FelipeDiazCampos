@@ -17,11 +17,11 @@
 ---
 
 
-⁜ Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**, tecnólogo, innovador y en constante aprendizaje.  
-⁜ Autodidacta, explorador de herramientas con enfoque en **desarrollo móvil/web**, **IA** y **ciberseguridad**, formadas en mi carrera.  
-⁜ Experiencia en el uso de **Amazon Web Services**, y en sistemas operativos como **Fedora** o **Kali Linux**. 🎩
+⁜ Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**, tecnólogo, innovador y en constante aprendizaje  
+⁜ Autodidacta, explorador de herramientas con enfoque en **desarrollo móvil/web**, **IA** y **ciberseguridad**, formadas en mi carrera  
+⁜ Experiencia en el uso de **Amazon Web Services**, y en sistemas operativos como **Fedora** o **Kali Linux** 🎩
 
-**Mi objetiv🎯**: construir o contribuir a soluciones que mejoren la vida de las personas, aprendiendo y compartiendo el saber durante el proceso.
+**Mi objetiv🎯**: construir o contribuir a soluciones que mejoren la vida de las personas, aprendiendo y compartiendo el saber durante el proceso
 
 ---
 
@@ -41,11 +41,11 @@
 ## 👨🏻‍💻 Hard Skills
 
 - **Desarrollo Móvil:** Flutter, Dart, Android Studio  
-- **Desarrollo Web:** Vue.js, HTML5, CSS3, JavaScript, Bootstrap.
+- **Desarrollo Web:** Vue.js, HTML5, CSS3, JavaScript, Bootstrap
 - **Inteligencia Artificial:** Machine Learning, Python, Ultralytics YOLO, TensorFlow, Google Colab
 - **Herramientas y Tecnologías:** GitHub, Firebase, Visual Studio Code, Notion, etc
-- **Sistemas operativos:** Windows, Fedora, Kali Linux.
-- **Valores:** Innovación, aprendizaje constante, compartir conocimiento, trabajo en equipo, liderazgo. 
+- **Sistemas operativos:** Windows, Fedora, Kali Linux
+- **Valores:** Innovación, aprendizaje constante, compartir conocimiento, trabajo en equipo, liderazgo
 
 ---
 
@@ -72,7 +72,7 @@
 ---
 ## 🫱🏼‍🫲🏼 Colaboraciones
 
-Dispuesto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar, 
+Dispuesto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar...
 ¡contactame!
 
 > "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
