@@ -42,7 +42,7 @@
 
 - **Desarrollo Móvil:** Flutter, Dart, Android Studio  
 - **Desarrollo Web:** Vue.js, HTML5, CSS3, JavaScript, Bootstrap.
-- **Inteligencia Artificial:** Machine Learning, Python, Ultralytics YOLO 
+- **Inteligencia Artificial:** Machine Learning, Python, Ultralytics YOLO, TensorFlow, Google Colab
 - **Herramientas y Tecnologías:** GitHub, Firebase, Visual Studio Code, Notion, etc
 - **Sistemas operativos:** Windows, Fedora, Kali Linux.
 - **Valores:** Innovación, aprendizaje constante, compartir conocimiento, trabajo en equipo, liderazgo. 
@@ -57,16 +57,18 @@
 - **Proposito:** Proyecto de titulacion universitario
 - **Colaboradores:** [eleBlue7](https://github.com/eleBlue7), [DB3NJ4](https://github.com/DB3NJ4)
   
-
-
 ### 🔹 [Proximamente - Proyecto de Inteligencia Artificial](https://github.com/FelipeDiazCampos/AI-Project)
-- **Tecnologías:** Python, TensorFlow, Google Colab  
-- **Descripción:** Modelo de predicción de datos usando regresión y análisis estadístico  
-
+- **Tecnologías:** 
+- **Descripción:**
+- **Proposito:** 
+- **Colaboradores:**
+  
 ### 🔹 [Proximamente - Aplicación Web Interactiva](https://github.com/FelipeDiazCampos/WebApp-Interactive)
 - **Tecnologías:** 
-- **Descripción:** 
-
+- **Descripción:**
+- **Proposito:** 
+- **Colaboradores:**
+  
 ---
 ## 🫱🏼‍🫲🏼 Colaboraciones
 
