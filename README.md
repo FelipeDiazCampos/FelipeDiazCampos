@@ -38,7 +38,7 @@
 
 ---
 
-## 🌟 Habilidades y Pasiones
+## 👨🏻‍💻 Hard Skills
 
 - **Desarrollo Móvil:** Flutter, Dart, Android Studio  
 - **Desarrollo Web:** Vue.js, HTML5, CSS3, JavaScript, Bootstrap.
