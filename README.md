@@ -64,14 +64,14 @@
 - **Descripción:** Modelo de predicción de datos usando regresión y análisis estadístico  
 
 ### 🔹 [Proximamente - Aplicación Web Interactiva](https://github.com/FelipeDiazCampos/WebApp-Interactive)
-- **Tecnologías:** React, Node.js, MongoDB  
-- **Descripción:** Plataforma web para gestionar tareas con diseño intuitivo y responsivo
+- **Tecnologías:** 
+- **Descripción:** 
 
 ---
-## 🧑‍💻 Colaboraciones
+## 🫱🏼‍🫲🏼 Colaboraciones
 
-Estoy siempre abierto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar, 
-¡no dudes en contactarme!
+Dispuesto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar, 
+¡contactame!
 
 > "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
 – Marco Aurelio"
