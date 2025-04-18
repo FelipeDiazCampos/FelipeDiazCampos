@@ -22,7 +22,7 @@
 ⁜ Experiencia en el uso de **Amazon Web Services**, y en sistemas operativos como **Fedora** o **Kali Linux** 🎩
 
 **Mi objetiv🎯**: construir y contribuir soluciones que mejoren la vida de todos, aprendiendo y compartiendo el saber durante el proceso
-**Estado🟢**: Actualmente trabajando en una web comercial privada
+**🔴Estado**: **Ocupado**, actualmente trabajando en una web comercial privada
 
 ---
 
