@@ -7,7 +7,7 @@
   <h3>
     <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
     <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
-    | Apasionado por la Innovación, la IA y la Programación
+    | Apasionado por la Innovación, la IA y la Programaciónn
   </h3>
 
 </div>
