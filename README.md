@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <alt="AlphaDiaz"> Ｂｉｅｎｖｅｎｉd @ ａ ｍｉ Ｇｉ:octocat:ｔＨｕｂ 
+    <alt="AlphaDiaz"> Ｂｉｅｎｖｅｎｉd @ ａ ｍｉ ＧｉｔＨｕｂ 
 <a href="https://github.com/FelipeDiazCampos?tab=repositories" target="_blank">
   <img
     src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-6491025.png"
@@ -89,3 +89,5 @@ Dispuesto a colaborar en proyectos interesantes y desafiantes. Si tienes una ide
 <p align="center">
   <img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b95232no32hxa1xznp6tkfdvdgzz8wiawwrmtovtxhsz&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Mi GIF animado">
 </p>
+
+:octocat:
