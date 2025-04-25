@@ -95,8 +95,8 @@ Dispuesto a colaborar en proyectos interesantes y desafiantes. Si tienes una ide
 
 <a href="https://github.com/FelipeDiazCampos?tab=repositories" target="_blank">
   <img
-    src=":octocat:"
-    alt="GitHub Icono"
+    src="⚡"
+    alt=""
     style="width:60px; vertical-align:middle;"
   >
 </a>
