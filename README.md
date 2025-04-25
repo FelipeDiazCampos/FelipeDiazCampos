@@ -93,10 +93,3 @@ Dispuesto a colaborar en proyectos interesantes y desafiantes. Si tienes una ide
 :octocat:
 
 
-<a href="https://github.com/FelipeDiazCampos?tab=repositories" target="_blank">
-  <img
-    src="⚡"
-    alt=""
-    style="width:60px; vertical-align:middle;"
-  >
-</a>
