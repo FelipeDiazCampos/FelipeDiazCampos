@@ -1,4 +1,3 @@
-<alt="AlphaDiaz"> SITIO EN CONSTRUCCIÓN
 <div align="center">
   <h1>
     <alt="AlphaDiaz"> Ｂｉｅｎｖｅｎｉd @ ａ ｍｉ ＧｉｔＨｕｂ 
@@ -18,11 +17,6 @@
   </h3>
 
 </div>
-
-![GitHub Banner](https://media.licdn.com/dms/image/v2/D4D16AQHFPVVJ8-lHNg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732218163279?e=1749686400&v=beta&t=wsyVUqi3WdMnmi6ZZWbNIyhd5pyAaTXyvKspX_0sguQ)
-
----
-
 
 ⁜ Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**, tecnólogo, innovador y en constante aprendizaje  
 ⁜ Autodidacta, explorador de herramientas con enfoque en **desarrollo móvil/web**, **IA** y **ciberseguridad**, formadas en mi carrera  
