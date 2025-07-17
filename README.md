@@ -23,13 +23,12 @@
 ⁜ Experiencia en el uso de **Amazon Web Services**, y en sistemas operativos como **Fedora** o **Kali Linux** 🎩
 
 **Mi objetiv🎯**: construir y contribuir soluciones que mejoren la vida de todos, aprendiendo y compartiendo el saber durante el proceso
-**🔴Estado**: **Ocupado**, actualmente trabajando en una web comercial privada
-
+**🟢Estado**: **Disponible**
 ---
 
 ## 👤 Mis Redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/engineer-felipe-d%C3%ADaz-campos/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/engineer-felipe-d%C3%ADaz-campos/](https://cl.linkedin.com/in/engineer-felipe-d%C3%ADaz-campos?original_referer=https%3A%2F%2Fwww.google.com%2F))
 
 [![GitHub](https://img.shields.io/badge/GitHub-FelipeDiazCampos-6a0dad?style=for-the-badge&logo=github&logoColor=white&labelColor=1e002d)](https://github.com/FelipeDiazCampos)
 
@@ -58,7 +57,7 @@
   <li>Vue 3</li><li>Vue Router (ruteo)</li><li>Vuex + localStorage (persistencia del carrito)</li><li>HTML5</li><li>CSS3</li><li>Bootstrap 5</li><li>JavaScript ES2020 (fake REST API en módulos .js)</li></ul>
 - **Descripción:** Web App interactiva para el catálogo de rodamientos Rodasep: menú desplegable, vistas dedicadas (Home, Productos, Locales, Contacto), floating quote-cart que persiste selección, formulario que envía la solicitud de cotización al correo corporativo. Diseño responsive y SEO-friendly.
 - **Proposito:** <ul><li>Mostrar la oferta completa de Rodasep en un sitio moderno y móvil-first.</li><li>Facilitar la generación de leads: “Añadir a cotizar” → “Enviar RFQ”.</li><li>Demostración de dominio en Vue + UI/UX como portfolio project.</li></ul>
-- **Colaboradores:** [AlphaDíaz](https://github.com/FelipeDiazCampos)
+- **Colaboradores:** [AlphaDíaz]([https://github.com/FelipeDiazCampos](https://cl.linkedin.com/in/engineer-felipe-d%C3%ADaz-campos?original_referer=https%3A%2F%2Fwww.google.com%2F))
 - **Sitio en producción:** [www.rodasep.cl](https://www.rodasep.cl)  
   _(Versión en línea del proyecto Rodasep QuoteCart)_
 
@@ -66,6 +65,7 @@
 
 ![Rodasep Demo](assets/rodasepgif.gif)
 
+&nbsp;
 
 
 ### 🔹 [Calculadora de Compras AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)
