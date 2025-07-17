@@ -55,8 +55,7 @@
 
 ### 🔹 [Proximamente - Aplicación Web Interactiva](https://github.com/FelipeDiazCampos/WebApp-Interactive)
 - **Tecnologías:** <ul style="list-style: none; padding-left: 0;">
-  <li>Vue 3</li><li>Vue Router (ruteo)</li><li>Vuex + localStorage (persistencia del carrito)</li><li>HTML5</li><li>CSS3</li><li>Bootstrap 5</li><li>JavaScript ES2020 (fake REST API en módulos .js)</li>
-</ul>
+  <li>Vue 3</li><li>Vue Router (ruteo)</li><li>Vuex + localStorage (persistencia del carrito)</li><li>HTML5</li><li>CSS3</li><li>Bootstrap 5</li><li>JavaScript ES2020 (fake REST API en módulos .js)</li></ul>
 - **Descripción:** Web App interactiva para el catálogo de rodamientos Rodasep: menú desplegable, vistas dedicadas (Home, Productos, Locales, Contacto), floating quote-cart que persiste selección, formulario que envía la solicitud de cotización al correo corporativo. Diseño responsive y SEO-friendly.
 - **Proposito:** <ul><li>Mostrar la oferta completa de Rodasep en un sitio moderno y móvil-first.</li><li>Facilitar la generación de leads: “Añadir a cotizar” → “Enviar RFQ”.</li><li>Demostración de dominio en Vue + UI/UX como portfolio project.</li></ul>
 - **Colaboradores:** Felipe Díaz Campos
