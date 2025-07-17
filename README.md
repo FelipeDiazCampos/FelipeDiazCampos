@@ -59,6 +59,7 @@
 - **Descripción:** Web App interactiva para el catálogo de rodamientos Rodasep: menú desplegable, vistas dedicadas (Home, Productos, Locales, Contacto), floating quote-cart que persiste selección, formulario que envía la solicitud de cotización al correo corporativo. Diseño responsive y SEO-friendly.
 - **Proposito:** <ul><li>Mostrar la oferta completa de Rodasep en un sitio moderno y móvil-first.</li><li>Facilitar la generación de leads: “Añadir a cotizar” → “Enviar RFQ”.</li><li>Demostración de dominio en Vue + UI/UX como portfolio project.</li></ul>
 - **Colaboradores:** [AlphaDíaz](https://github.com/FelipeDiazCampos)
+-  **Visitala y navegala en:** [www.rodasep.cl](https://www.rodasep.cl)
 ![Rodasep Demo](assets/rodasepgif.gif)
 
 
