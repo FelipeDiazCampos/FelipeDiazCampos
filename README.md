@@ -16,7 +16,7 @@
     
   </h3>
    <h3>
-     | Apasionado por la Innovación, la IA y la Programación
+    Apasionado por la Innovación, la IA y la Programación
    </h3>
 </div>
 
