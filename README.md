@@ -88,6 +88,13 @@
 - **Proposito:** 
 - **Colaboradores:**
 ---
+
+### 🔹 [Proximamente - Proyecto Aplicacion Mobil](https://github.com/FelipeDiazCampos/AI-Project)
+- **Tecnologías:** 
+- **Descripción:**
+- **Proposito:** 
+- **Colaboradores:**
+---
 ## 🫱🏼‍🫲🏼 Colaboraciones
 
 Dispuesto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar...
