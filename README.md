@@ -2,8 +2,9 @@
   <img 
     src="assets/matrixgif.gif" 
     alt="Banner Matrix" 
-    style="width:100%; max-height:160px; object-fit:cover; display:block; margin:0 auto;" 
+    style="width:100%; max-height:240px; object-fit:cover; display:block; margin:0 auto;" 
   >
+</div>
 </div>
 <div align="center">
   <h1>
