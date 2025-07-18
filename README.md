@@ -106,7 +106,7 @@
 <div align="center">
 
 ### Gráfico de contribuciones
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDiazCampos&theme=github-compact&hide_border=true&area=true&custom_title=Mis%20Contribuciones)](https://github.com/FelipeDiazCampos)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDiazCampos&theme=github-compact&hide_border=true&area=true&custom_title=Contribuciones%20mas%20recientes)](https://github.com/FelipeDiazCampos)
 
 </div>
 
