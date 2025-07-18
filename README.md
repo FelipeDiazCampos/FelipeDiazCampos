@@ -42,7 +42,7 @@
 <div align="center">
 
 ### Gráfico de contribuciones mas recientes
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDiazCampos&theme=github-compact&hide_border=true&area=true&custom_title=AlphaDiaz)](https://github.com/FelipeDiazCampos)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDiazCampos&theme=github-compact&hide_border=true&area=true&custom_title=AlphaDíaz)](https://github.com/FelipeDiazCampos)
 
 </div>
 
