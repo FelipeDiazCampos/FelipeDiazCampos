@@ -39,13 +39,6 @@
 
 ---
 
-<div align="center">
-
-### Gráfico de contribuciones mas recientes
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDiazCampos&theme=github-compact&hide_border=true&area=true&custom_title=AlphaDíaz)](https://github.com/FelipeDiazCampos)
-
-</div>
-
 ## 👤 Mis Redes:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/felipe-diaz-computer-engineer)
@@ -108,14 +101,15 @@
 - **Colaboradores:**
 ---
 
-## 🫱🏼‍🫲🏼 Colaboraciones
+<div align="center">
 
-Dispuesto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar...
-¡contactame!
+### Gráfico de contribuciones mas recientes
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDiazCampos&theme=github-compact&hide_border=true&area=true&custom_title=AlphaDíaz)](https://github.com/FelipeDiazCampos)
+
+</div>
 
 > "Todo lo que escuchamos es una opinión, no un hecho. Todo lo que vemos es una perspectiva, no la verdad.
 – Marco Aurelio"
-
 
 <p align="center">
   <img src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b95232no32hxa1xznp6tkfdvdgzz8wiawwrmtovtxhsz&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Mi GIF animado">
