@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <alt="AlphaDiaz"> 𝘉𝘪𝘦𝘯𝘷𝘦𝘯𝘪𝘥𝘰 𝘢 𝘮𝘪 𝘱𝘰𝘳𝘵𝘢𝘧𝘰𝘭𝘪𝘰 𝘦𝘯 𝘎𝘪𝘵𝘏𝘶𝘣
+    <alt="AlphaDiaz"> 𝘉𝘪𝘦𝘯𝘷𝘦𝘯𝘪𝘥@ 𝘢 𝘮𝘪 𝘱𝘰𝘳𝘵𝘢𝘧𝘰𝘭𝘪𝘰 𝘦𝘯 𝘎𝘪𝘵𝘏𝘶𝘣
 <a href="https://github.com/FelipeDiazCampos/web_rodasep/tree/main/client_frontend" target="_blank">
   <img
     src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-6491025.png"
