@@ -102,6 +102,28 @@
 - **Proposito:** 
 - **Colaboradores:**
 ---
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+
+### Activity Overview  
+[![Felipe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeDiazCampos&show_icons=true&title_color=00b7eb&icon_color=00b7eb&text_color=ffffff&bg_color=00000000&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/FelipeDiazCampos)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeDiazCampos&layout=compact&title_color=00b7eb&text_color=ffffff&bg_color=00000000&hide_border=true&langs_count=8)](https://github.com/FelipeDiazCampos)
+
+---
+
+### Total Contributions  
+[![Total Commits](https://img.shields.io/badge/Total_Commits-1,000%2B-00b7eb?style=for-the-badge&logo=git&logoColor=white)](https://github.com/FelipeDiazCampos)
+[![Active Contributor](https://img.shields.io/badge/Active_Contributor-2024→Present-555555?style=for-the-badge)](https://github.com/FelipeDiazCampos)
+
+---
+
+### Contribution Graph  
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDiazCampos&theme=github-compact&hide_border=true&area=true&custom_title=Mis%20Contribuciones)](https://github.com/FelipeDiazCampos)
+
+</div>
+
 ## 🫱🏼‍🫲🏼 Colaboraciones
 
 Dispuesto a colaborar en proyectos interesantes y desafiantes. Si tienes una idea o simplemente quieres conectar...
