@@ -2,7 +2,7 @@
   <h1 style="font-family: monospace;">
     Ｂｉｅｎｖｅｎｉｄ＠
   </h1>
-  <h2 style="font-family: monospace;">
+  <h2>
     ａ ｍｉ ｐｏｒｔａｆｏｌｉｏ ＧｉｔＨｕｂ
     <a href="https://github.com/FelipeDiazCampos/web_rodasep/tree/main/client_frontend" target="_blank">
       <img
