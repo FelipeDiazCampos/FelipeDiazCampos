@@ -27,14 +27,6 @@
   </h3>
 </div>
 
-<div align="center">
-
-### Gráfico de contribuciones
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDiazCampos&theme=github-compact&hide_border=true&area=true&custom_title=Contribuciones%20mas%20recientes)](https://github.com/FelipeDiazCampos)
-
-</div>
-  
-
 ⁜ Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**, tecnólogo, innovador y en constante aprendizaje  
 ⁜ Autodidacta, explorador de herramientas con enfoque en **desarrollo móvil/web**, **IA** y **ciberseguridad**, formadas en mi carrera  
 ⁜ Experiencia en el uso de **Amazon Web Services**, y en sistemas operativos como **Fedora** o **Kali Linux** 🎩
@@ -46,6 +38,13 @@
 🟢 **Estado actual:** Disponible.
 
 ---
+
+<div align="center">
+
+### Gráfico de contribuciones
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=FelipeDiazCampos&theme=github-compact&hide_border=true&area=true&custom_title=Contribuciones%20mas%20recientes)](https://github.com/FelipeDiazCampos)
+
+</div>
 
 ## 👤 Mis Redes:
 
