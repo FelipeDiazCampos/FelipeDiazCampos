@@ -28,7 +28,7 @@
 
 ## 👤 Mis Redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]([https://www.linkedin.com/in/engineer-felipe-d%C3%ADaz-campos/](https://cl.linkedin.com/in/engineer-felipe-d%C3%ADaz-campos?original_referer=https%3A%2F%2Fwww.google.com%2F))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/felipe-diaz-computer-engineer)
 
 [![GitHub](https://img.shields.io/badge/GitHub-FelipeDiazCampos-6a0dad?style=for-the-badge&logo=github&logoColor=white&labelColor=1e002d)](https://github.com/FelipeDiazCampos)
 
