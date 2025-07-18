@@ -23,7 +23,6 @@
 ⁜ Experiencia en el uso de **Amazon Web Services**, y en sistemas operativos como **Fedora** o **Kali Linux** 🎩
 
 🎯 **Propósito:** Diseñar, construir y escalar soluciones tecnológicas que mejoren vidas, integrando aprendizaje continuo y compartición del conocimiento como ejes fundamentales del proceso.
-
 🟢 **Estado actual:** Disponible para colaborar en proyectos de impacto, innovación tecnológica o desarrollo de software frontend/backend.
 ---
 
