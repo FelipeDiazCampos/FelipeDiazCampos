@@ -26,7 +26,7 @@
 
 🎯 **Propósito:** Diseñar, construir y escalar soluciones tecnológicas que mejoren vidas, integrando aprendizaje continuo y compartición del conocimiento como ejes fundamentales del proceso.
 
-🟢 **Estado actual:** Disponible para colaborar en proyectos de impacto, innovación tecnológica o desarrollo de software frontend/backend.
+🟢 **Estado actual:** Disponible.
 
 ---
 
