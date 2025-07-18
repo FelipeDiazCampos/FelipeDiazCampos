@@ -15,10 +15,11 @@
     <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
     
   </h3>
+</div>
+
    <h3>
     Apasionado por la Innovación, la IA y la Programación
    </h3>
-</div>
 
 ⁜ Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**, tecnólogo, innovador y en constante aprendizaje  
 ⁜ Autodidacta, explorador de herramientas con enfoque en **desarrollo móvil/web**, **IA** y **ciberseguridad**, formadas en mi carrera  
