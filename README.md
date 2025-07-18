@@ -87,7 +87,6 @@
 - **Descripción:**
 - **Proposito:** 
 - **Colaboradores:**
----
 
 ### 🔹 [Proximamente - Proyecto Aplicacion Mobil](https://github.com/FelipeDiazCampos/AI-Project)
 - **Tecnologías:** 
