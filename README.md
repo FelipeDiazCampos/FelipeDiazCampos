@@ -41,14 +41,7 @@
 
 ## 👤 Mis Redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/felipe-diaz-computer-engineer)
-
-[![GitHub](https://img.shields.io/badge/GitHub-FelipeDiazCampos-6a0dad?style=for-the-badge&logo=github&logoColor=white&labelColor=1e002d)](https://github.com/FelipeDiazCampos)
-
-[![Credly](https://img.shields.io/badge/Credly-Certificaciones_e_insignias-FF6F00?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=101010)](https://www.credly.com/users/felipe-diaz.b6fb06db)
-
-[![Email](https://img.shields.io/badge/Email-engineer.felipediazcampos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=engineer.felipediazcampos@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/felipe-diaz-computer-engineer) [![GitHub](https://img.shields.io/badge/GitHub-FelipeDiazCampos-6a0dad?style=for-the-badge&logo=github&logoColor=white&labelColor=1e002d)](https://github.com/FelipeDiazCampos) [![Credly](https://img.shields.io/badge/Credly-Certificaciones_e_insignias-FF6F00?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=101010)](https://www.credly.com/users/felipe-diaz.b6fb06db) [![Email](https://img.shields.io/badge/Email-engineer.felipediazcampos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=engineer.felipediazcampos@gmail.com)
 
 ---
 
