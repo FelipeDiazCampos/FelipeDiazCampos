@@ -13,10 +13,11 @@
   <h3>
     <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
     <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
-    &nbsp;
-    | Apasionado por la Innovación, la IA y la Programación
+    
   </h3>
-
+   <h3>
+     | Apasionado por la Innovación, la IA y la Programación
+   </h3>
 </div>
 
 ⁜ Ingeniero en informática de la **Universidad Tecnológica de Chile INACAP**, tecnólogo, innovador y en constante aprendizaje  
