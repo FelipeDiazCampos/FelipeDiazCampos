@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <h1>
-    <alt="AlphaDiaz"> Ingeniero en Informática Titulado
+    <alt="AlphaDiaz"> Ingeniero en Informática
 <a href="https://github.com/FelipeDiazCampos/web_rodasep/tree/main/client_frontend" target="_blank">
   <img
     src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png"
