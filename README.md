@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-diaz-computer-engineer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/330px-LinkedIn_Logo.svg.png?_=20170711102837" alt="LinkedIn" height="34">
+    <img src="https://www.imab2b.com/wp-content/uploads/2022/10/news-linkedin-unveils-new-logo-and-brand-refresh-main-image-760x400-1.png" alt="LinkedIn" height="34">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/felipe-diaz.b6fb06db">
