@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <h1>
-    <alt="AlphaDiaz"> 𝘉𝘪𝘦𝘯𝘷𝘦𝘯𝘪𝘥@ 𝘢 𝘮𝘪 𝘱𝘰𝘳𝘵𝘢𝘧𝘰𝘭𝘪𝘰 𝘦𝘯 𝘎𝘪𝘵𝘏𝘶𝘣
+    <alt="AlphaDiaz"> Felipe Díaz - Ingeniero en Informática
 <a href="https://github.com/FelipeDiazCampos/web_rodasep/tree/main/client_frontend" target="_blank">
   <img
     src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-6491025.png"
@@ -19,7 +19,7 @@
   </h1>
 
   <h3>
-    <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;">Ingeniero en Informática</span>
+    <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;"> </span>
     <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
      <h3>
     Apasionado por la Innovación, la IA y la Programación
