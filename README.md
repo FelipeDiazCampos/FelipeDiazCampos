@@ -39,7 +39,23 @@
 
 ## 👤 Mis Redes:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Diaz_Campos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/felipe-diaz-computer-engineer) [![GitHub](https://img.shields.io/badge/GitHub-FelipeDiazCampos-6a0dad?style=for-the-badge&logo=github&logoColor=white&labelColor=1e002d)](https://github.com/FelipeDiazCampos) [![Credly](https://img.shields.io/badge/Credly-Certificaciones_e_insignias-FF6F00?style=for-the-badge&logo=awesomelists&logoColor=white&labelColor=101010)](https://www.credly.com/users/felipe-diaz.b6fb06db) [![Email](https://img.shields.io/badge/Email-engineer.felipediazcampos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](https://mail.google.com/mail/?view=cm&fs=1&to=engineer.felipediazcampos@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/felipe-diaz-computer-engineer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/330px-LinkedIn_Logo.svg.png?_=20170711102837" alt="LinkedIn" height="34">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/felipe-diaz.b6fb06db">
+    <img src="https://cnet-training.com/wp-content/uploads/2023/02/Credly-by-Pearson-HQ-Logo.png" alt="Credly" height="34">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=engineer.felipediazcampos@gmail.com">
+    <img src="https://brandlogos.net/wp-content/uploads/2025/04/gmail-logo_brandlogos.net_eqenr-512x128.png" alt="Gmail" height="34">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/TUNUMERO">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/960px-WhatsApp.svg.png?_=20220228223904" alt="WhatsApp" height="34">
+  </a>
+</p>
 
 ---
 
