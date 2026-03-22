@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   <h1>
-    <alt="AlphaDiaz"> Felipe Díaz - Ingeniero en Informática
+    <alt="AlphaDiaz"> Ingeniero en Informática Titulado
 <a href="https://github.com/FelipeDiazCampos/web_rodasep/tree/main/client_frontend" target="_blank">
   <img
     src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png"
@@ -17,11 +17,6 @@
   >
 </a>
   </h1>
-
-  <h3>
-    <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;"> </span>
-    <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
-     <h3>
     Apasionado por la Innovación, la IA y la Programación
    </h3>
   </h3>
