@@ -11,7 +11,7 @@
     <alt="AlphaDiaz"> Felipe Díaz - Ingeniero en Informática
 <a href="https://github.com/FelipeDiazCampos/web_rodasep/tree/main/client_frontend" target="_blank">
   <img
-    src="https://cdn3d.iconscout.com/3d/free/thumb/free-github-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-6491025.png"
+    src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png"
     alt="GitHub Icono"
     style="width:60px; vertical-align:middle;" 
   >
