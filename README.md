@@ -52,7 +52,7 @@
     <img src="https://brandlogos.net/wp-content/uploads/2025/04/gmail-logo_brandlogos.net_eqenr-512x128.png" alt="Gmail" height="34">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/TUNUMERO](https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/960px-WhatsApp.svg.png?_=20220228223904" alt="WhatsApp" height="34">
   </a>
 </p>
