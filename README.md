@@ -11,9 +11,9 @@
     <alt="AlphaDiaz"> Ingeniero en Informática
 <a href="https://github.com/FelipeDiazCampos/web_rodasep/tree/main/client_frontend" target="_blank">
   <img
-    src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png"
-    alt="GitHub Icono"
-    style="width:60px; vertical-align:middle;" 
+    src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" 
+    alt="Verificado"
+    style="width:20px; vertical-align:middle;" 
   >
 </a>
   </h1>
