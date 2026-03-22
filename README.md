@@ -40,10 +40,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-diaz-computer-engineer">
-    <img src="https://www.imab2b.com/wp-content/uploads/2022/10/news-linkedin-unveils-new-logo-and-brand-refresh-main-image-760x400-1.png" alt="Linkedin" height="34">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/felipe-diaz.b6fb06db">
+    <img src="https://www.imab2b.com/wp-content/uploads/2022/10/news-linkedin-unveils-new-logo-and-brand-refresh-main-image-760x400-1.png" alt="Linkedin" height="34" border="0">
+  </a><a href="https://www.credly.com/users/felipe-diaz.b6fb06db">
     <img src="https://cnet-training.com/wp-content/uploads/2023/02/Credly-by-Pearson-HQ-Logo.png" alt="Credly" height="34" border="0">
   </a>
   &nbsp;&nbsp;&nbsp;
