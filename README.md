@@ -41,39 +41,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-diaz-computer-engineer">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@15.6.0/icons/linkedin.svg"
-      alt="LinkedIn"
-      width="42"
-      height="42"
-    >
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/330px-LinkedIn_Logo.svg.png?_=20170711102837](https://www.imab2b.com/wp-content/uploads/2022/10/news-linkedin-unveils-new-logo-and-brand-refresh-main-image-760x400-1.png)" alt="LinkedIn" height="34">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.credly.com/users/felipe-diaz.b6fb06db">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@15.6.0/icons/credly.svg"
-      alt="Credly"
-      width="42"
-      height="42"
-    >
+    <img src="https://cnet-training.com/wp-content/uploads/2023/02/Credly-by-Pearson-HQ-Logo.png" alt="Credly" height="34">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:engineer.felipediazcampos@gmail.com">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@15.6.0/icons/gmail.svg"
-      alt="Gmail"
-      width="42"
-      height="42"
-    >
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=engineer.felipediazcampos@gmail.com">
+    <img src="https://brandlogos.net/wp-content/uploads/2025/04/gmail-logo_brandlogos.net_eqenr-512x128.png" alt="Gmail" height="34">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/569XXXXXXXX">
-    <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@15.6.0/icons/whatsapp.svg"
-      alt="WhatsApp"
-      width="42"
-      height="42"
-    >
+  <a href="https://wa.me/TUNUMERO">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/960px-WhatsApp.svg.png?_=20220228223904" alt="WhatsApp" height="34">
   </a>
 </p>
 
