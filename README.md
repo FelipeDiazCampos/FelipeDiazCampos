@@ -19,7 +19,6 @@
   </h1>
   <h3>
     <span style="color:#00b7eb; font-weight:bold; font-size:1.5em;"> </span>
-    <img src="https://cdn-icons-png.flaticon.com/512/11820/11820285.png" alt="Verificado" style="width:20px; vertical-align:middle;">
      <h3>
     Apasionado por la Innovación, la IA y la Programación
    </h3>
