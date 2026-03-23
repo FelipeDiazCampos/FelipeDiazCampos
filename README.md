@@ -76,7 +76,7 @@ A nivel técnico, trabajé con **Vue 3, Vue Router, Vuex, localStorage, HTML5, C
 &nbsp;
 
 
-### 🔹 [Proximamente mas)
+### 🔹 
 
 
 <div align="center">
