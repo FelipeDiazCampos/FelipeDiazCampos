@@ -63,7 +63,7 @@
 ### 🔹 [Rodasep SPA | Sitio web corporativo en producción](https://www.rodasep.cl)
 
 <p>
-  <img src="assets/rodasep-rojo.svg" alt="Diseñé y desarrollé de forma autónoma, de principio a fin, el sitio web corporativo de Rodasep SPA" height="19">, empresa especializada en rodamientos en la VII Región del Maule, Chile. El proyecto fue concebido para modernizar su presencia digital y convertir la web en un canal útil tanto para informar como para captar oportunidades comerciales.
+  <img src="assets/rodasep-rojo.svg" alt="Diseñé y desarrollé de forma autónoma, de principio a fin, el sitio web corporativo de Rodasep SPA," height="20"> empresa especializada en rodamientos en la VII Región del Maule, Chile. El proyecto fue concebido para modernizar su presencia digital y convertir la web en un canal útil tanto para informar como para captar oportunidades comerciales.
 </p>
 
 <p>
