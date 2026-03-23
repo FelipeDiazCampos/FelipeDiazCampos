@@ -58,7 +58,7 @@
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Trabajos realizados
 
 ### 🔹 [Pagina Web - SPA corporativa (Single-Page Application)](https://www.rodasep.cl)
 - **Tecnologías:** <ul style="list-style: none; padding-left: 0;">
