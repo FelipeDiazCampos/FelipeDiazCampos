@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="http://www.linkedin.com/in/felipediazcampos"><img src="https://www.imab2b.com/wp-content/uploads/2022/10/news-linkedin-unveils-new-logo-and-brand-refresh-main-image-760x400-1.png" alt="Linkedin" height="34" style="display:block;"></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.credly.com/users/felipe-diaz.b6fb06db"><img src="https://cnet-training.com/wp-content/uploads/2023/02/Credly-by-Pearson-HQ-Logo.png" alt="Credly" height="34" style="display:block;"></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.credly.com/users/felipediazcampos/badges#credly"><img src="https://cnet-training.com/wp-content/uploads/2023/02/Credly-by-Pearson-HQ-Logo.png" alt="Credly" height="34" style="display:block;"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=engineer.felipediazcampos@gmail.com"><img src="https://brandlogos.net/wp-content/uploads/2025/04/gmail-logo_brandlogos.net_eqenr-512x128.png" alt="Gmail" height="34" style="display:block;"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/960px-WhatsApp.svg.png?_=20220228223904" alt="WhatsApp" height="34" style="display:block;"></a>
 </p>
