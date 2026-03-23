@@ -76,24 +76,8 @@ A nivel técnico, trabajé con **Vue 3, Vue Router, Vuex, localStorage, HTML5, C
 &nbsp;
 
 
-### 🔹 [Calculadora de Compras AddUpFast! colaborativo](https://github.com/eleBlue7/proyecto-titulo)
-- **Tecnologías:** Flutter, Dart, Firebase  
-- **Descripción:** Una app móvil que permite registrar los costos de tus compras usando comandos de voz
-- **Proposito:** Proyecto de titulacion universitario
-- **Colaboradores:** [eleBlue7](https://github.com/eleBlue7), [DB3NJ4](https://github.com/DB3NJ4)
-  
-### 🔹 [Proximamente - Proyecto de Inteligencia Artificial](https://github.com/FelipeDiazCampos/AI-Project)
-- **Tecnologías:** 
-- **Descripción:**
-- **Proposito:** 
-- **Colaboradores:**
+### 🔹 [Proximamente mas)
 
-### 🔹 [Proximamente - Proyecto Aplicacion Mobil](https://github.com/FelipeDiazCampos/AI-Project)
-- **Tecnologías:** 
-- **Descripción:**
-- **Proposito:** 
-- **Colaboradores:**
----
 
 <div align="center">
 
