@@ -58,18 +58,17 @@
 
 ---
 
-## 🚀 Trabajos realizados
+## ✅ Trabajos realizados
 
-### 🔹 [Pagina Web - SPA corporativa (Single-Page Application)](https://www.rodasep.cl)
-- **Tecnologías:** <ul style="list-style: none; padding-left: 0;">
-  <li>Vue 3</li><li>Vue Router (ruteo)</li><li>Vuex + localStorage (persistencia del carrito)</li><li>HTML5</li><li>CSS3</li><li>Bootstrap 5</li><li>JavaScript ES2020 (fake REST API en módulos .js)</li></ul>
-- **Descripción:** Web App interactiva para el catálogo de rodamientos Rodasep: menú desplegable, vistas dedicadas (Home, Productos, Locales, Contacto), floating quote-cart que persiste selección, formulario que envía la solicitud de cotización al correo corporativo. Diseño responsive y SEO-friendly.
-- **Proposito:** <ul><li>Mostrar la oferta completa de Rodasep en un sitio moderno y móvil-first.</li><li>Facilitar la generación de leads: “Añadir a cotizar” → “Enviar RFQ”.</li><li>Demostración de dominio en Vue + UI/UX como portfolio project.</li></ul>
-- **Desarrollo y diseño:** [AlphaDíaz](https://www.linkedin.com/in/felipe-diaz-computer-engineer)
-- **Empresa**: Rodasep SPA 
-- **Sitio en producción:** [www.rodasep.cl](https://www.rodasep.cl)  
-  _(Versión en línea del proyecto Rodasep QuoteCart)_
+### 🔹 [Rodasep SPA | Sitio web corporativo en producción](https://www.rodasep.cl)
 
+Desarrollé de forma autónoma el sitio web corporativo de **Rodasep SPA**, empresa especializada en rodamientos en la Región del Maule, Chile. El proyecto fue concebido para modernizar su presencia digital y convertir la web en un canal útil tanto para informar como para captar oportunidades comerciales.
+
+La solución incorpora un catálogo digital de productos, navegación estructurada, carrito de cotización con persistencia de selección y un formulario que permite enviar solicitudes directamente al correo corporativo. El sitio fue diseñado con enfoque responsive, priorizando una experiencia fluida tanto en dispositivos móviles como en escritorio.
+
+A nivel técnico, trabajé con **Vue 3, Vue Router, Vuex, localStorage, HTML5, CSS3, Bootstrap 5 y JavaScript ES2020**, integrando una arquitectura clara y una interfaz orientada a la usabilidad. Además, participé en la publicación del proyecto en producción, asegurando su disponibilidad en dominio público.
+
+**Sitio en producción:** [www.rodasep.cl](https://www.rodasep.cl)
 &nbsp;
 
 ![Rodasep Demo](assets/rodasepgif.gif)
