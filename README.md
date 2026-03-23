@@ -62,11 +62,11 @@
 
 ### 🔹 [Rodasep SPA | Sitio web corporativo en producción](https://www.rodasep.cl)
 
-Diseñé y desarrollé de forma autónoma, de principio a fin, el sitio web corporativo de **Rodasep SPA**, empresa especializada en rodamientos en la Región del Maule, Chile. El proyecto fue concebido para modernizar su presencia digital y convertir la web en un canal útil tanto para informar como para captar oportunidades comerciales.
+**Diseñé y desarrollé de forma autónoma, de principio a fin, el sitio web corporativo de Rodasep SPA**, empresa especializada en rodamientos en la Región del Maule, Chile. El proyecto fue concebido para modernizar su presencia digital y convertir la web en un canal útil tanto para informar como para captar oportunidades comerciales.
 
 La solución incorpora un catálogo digital de productos, navegación estructurada, carrito de cotización con persistencia de selección y un formulario que permite enviar solicitudes directamente al correo corporativo. El sitio fue diseñado con enfoque responsive, priorizando una experiencia fluida tanto en dispositivos móviles como en escritorio.
 
-A nivel técnico, trabajé con **Vue 3, Vue Router, Vuex, localStorage, HTML5, CSS3, Bootstrap 5 y JavaScript ES2020**, integrando una arquitectura clara y una interfaz orientada a la usabilidad. Además, participé en la publicación del proyecto en producción, asegurando su disponibilidad en dominio público.
+A nivel técnico, trabajé con **Vue 3, Vue Router, Vuex, localStorage, HTML5, CSS3, Bootstrap 5 y JavaScript ES2020**, integrando una arquitectura clara y una interfaz orientada a la usabilidad. Además, gestioné la publicación del proyecto en producción, asegurando su disponibilidad en dominio público.
 
 **Sitio en producción:** [www.rodasep.cl](https://www.rodasep.cl)
 &nbsp;
