@@ -24,11 +24,11 @@
    </h3>
   </h3>
 </div>
-
+<p
 ⁜ Ingeniero, tecnólogo, innovador, solucionador y autodidacta.  
 ⁜ Explorador de herramientas y diversos sistemas informaticos.
 ⁜ Experiencia en el uso de **Amazon Web Services**, y en sistemas operativos como **Fedora** o **Kali Linux** y mas. 
-
+</p>
 🎯 **Propósito:** Diseñar, construir y escalar soluciones tecnológicas que mejoren vidas, integrando aprendizaje continuo y compartición del conocimiento como ejes fundamentales del proceso.
 
 
