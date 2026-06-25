@@ -24,7 +24,7 @@
    </h3>
   </h3>
 </div>
-[https://felipediaz.cl/](https://felipediaz.cl/)
+https://felipediaz.cl/
 <p>
 ⁜ Ingeniero, tecnólogo, innovador, solucionador y autodidacta.<br>
 ⁜ Explorador de herramientas y diversos sistemas informáticos.<br>
